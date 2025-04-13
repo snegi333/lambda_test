@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+    <test name="Login Tests">
+        <classes>
+            <class name="com.lambdatest.tests.LoginTests"/>
+        </classes>
+    </test>
+    <test name="JavaScript Alerts Tests">
+        <classes>
+            <class name="com.lambdatest.tests.JavaScriptAlertsTests"/>
+        </classes>
+    </test>
+</suite> 
